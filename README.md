@@ -1,5 +1,5 @@
 
-# 🚀 Start AWS - Python Activities
+# 🚀 Start AWS - Python Atividades
 
 Bem-vindo ao repositório de atividades Python do curso **Start AWS**!
 
