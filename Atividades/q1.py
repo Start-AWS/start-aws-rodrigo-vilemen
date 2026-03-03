@@ -5,9 +5,9 @@
 num = int(input("Digite um número:"))
 
 if num % 2 == 0:
-    print("O {num} é par!")
+    print(f"O número {num} é par!")
 else:
-    print("o {num} é ímpar!")
+    print(f"o número {num} é ímpar!")
 
 
 
